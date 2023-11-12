@@ -1,4 +1,3 @@
-
 let equalPressed = 0;
 let buttonInput = document.querySelectorAll(".button");
 let input = document.getElementById("input");
